@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUDRealmAndroid</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+</resources>
